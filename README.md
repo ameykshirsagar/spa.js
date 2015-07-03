@@ -17,6 +17,8 @@ This is the simplest library for implementing single page applications. Works we
 	<title></title>
 </head>
 <body>
+	<a href="#home">Home</a>
+	<a href="#page2">Page 2</a>
 	<div class="page" data-target="home">
 		this is a home page
 	</div>

@@ -10,7 +10,7 @@ This is the simplest library for implementing single page applications. Works we
 
 ###Example
   ```html
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="spa.css">
